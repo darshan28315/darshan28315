@@ -1,5 +1,6 @@
 <code>
 x = 5;
 y = 6;
+z = 7;
 z = x + y;
 </code>
